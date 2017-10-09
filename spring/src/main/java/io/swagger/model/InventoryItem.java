@@ -10,7 +10,7 @@ import io.swagger.model.Manufacturer;
 /**
  * InventoryItem
  */
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.SpringCodegen", date = "2017-10-05T06:47:18.857Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.SpringCodegen", date = "2017-10-09T07:48:10.761Z")
 
 public class InventoryItem   {
   @JsonProperty("id")
