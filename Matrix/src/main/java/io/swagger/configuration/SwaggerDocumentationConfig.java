@@ -10,7 +10,7 @@ import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
-@javax.annotation.Generated(value = "class io.swagger.codegen.languages.SpringCodegen", date = "2017-10-13T12:04:57.856Z")
+@javax.annotation.Generated(value = "class io.swagger.codegen.languages.SpringCodegen", date = "2017-10-13T12:55:02.060Z")
 
 @Configuration
 public class SwaggerDocumentationConfig {
@@ -18,7 +18,7 @@ public class SwaggerDocumentationConfig {
     ApiInfo apiInfo() {
         return new ApiInfoBuilder()
             .title("Swagger Petstore")
-            .description("A sample API that uses a petstore as an example to demonstrate features in the swagger-2.0 specification")
+            .description("A sample API that uses a petstore as an example to demonstratesdfa features in the swagger-2.0 specification")
             .license("MIT")
             .licenseUrl("")
             .termsOfServiceUrl("")
